@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "deallocateBlock(INode*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "processDirectoryItems(std::__1::vector&lt;char*, std::__1::allocator&lt;char*&gt; &gt;*):myUtil.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__read_nocancel:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "allBlocks[10]">
+            </PersistentString>
+            <PersistentString
+               value = "allInodes[10]">
+            </PersistentString>
+            <PersistentString
+               value = "directoryTable">
+            </PersistentString>
+            <PersistentString
+               value = "allBlocks[11]">
+            </PersistentString>
+            <PersistentString
+               value = "allInodes[4]">
+            </PersistentString>
+            <PersistentString
+               value = "allInodes[7]">
+            </PersistentString>
+            <PersistentString
+               value = "directoryTable-&gt;head[11]">
+            </PersistentString>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mkdir(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "allBlocks[4]">
+            </PersistentString>
+            <PersistentString
+               value = "allBlocks[2]">
+            </PersistentString>
+            <PersistentString
+               value = "allBlocks[3]">
+            </PersistentString>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getItems(char*):myUtil.h">
+      </ContextState>
+      <ContextState
+         contextName = "getAbsolutePathTool(Directory*, char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "directoryTable">
+            </PersistentString>
+            <PersistentString
+               value = "getContentOfBlocksOfAFile(root)">
+            </PersistentString>
+            <PersistentString
+               value = "getItems(getContentOfBlocksOfAFile(root))">
+            </PersistentString>
+            <PersistentString
+               value = "root">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "assignBlocksToInode(std::__1::vector&lt;short, std::__1::allocator&lt;short&gt; &gt;*, INode*):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "rmdir(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "printConsoleInfo(char const*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getContentOfBlocksOfAFile(Directory*):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "reconstructDirectoryTable():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "directoryTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "assignContentToBlocks(char const*, std::__1::vector&lt;short, std::__1::allocator&lt;short&gt; &gt;):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "rm(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+            <PersistentString
+               value = "allInodes[13]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock-&gt;freeBlocks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "allocateInode():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "reconstructDirTab(std::__1::vector&lt;Directory, std::__1::allocator&lt;Directory&gt; &gt;*, Directory*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dirs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "allocateBlock(int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "vi(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "printDirTable():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "directoryTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cd(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "directoryTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getAbsolutePath(Directory*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentDirectory">
+            </PersistentString>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+            <PersistentString
+               value = "currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "function_distrubute():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "directoryTable-&gt;head[j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getInodesIdsFromItems(std::__1::vector&lt;std::__1::pair&lt;char*, short&gt;, std::__1::allocator&lt;std::__1::pair&lt;char*, short&gt; &gt; &gt;*, char*):myUtil.h">
+      </ContextState>
+      <ContextState
+         contextName = "cp(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "superBlock">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "locate(char*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "allInodes[i]">
+            </PersistentString>
+            <PersistentString
+               value = "directoryTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
